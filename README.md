@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif" width="400" >
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Kaivalya4&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>👋 Hi,</h1>
 I’m @Kaivalya4 : Kaivalyamani Tripathi , a passionate self taught web developer and an aspiring Software Developer . 
